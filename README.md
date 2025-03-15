@@ -1,4 +1,4 @@
-# nvim-pasta
+# n in-state 
 
 The yank/paste enhancement plugin for neovim.
 
